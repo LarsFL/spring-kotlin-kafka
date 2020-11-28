@@ -33,6 +33,6 @@ class KafkaProducerConfiguration {
     }
 
     companion object {
-        const val TOPIC = "Topic1"
+        const val TOPIC = "order.intershop"
     }
 }
